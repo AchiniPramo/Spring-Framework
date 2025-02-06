@@ -1,6 +1,5 @@
 package lk.ijse;
 
-
 import lk.ijse.config.WebAppConfig;
 import lk.ijse.config.WebRootConfig;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
