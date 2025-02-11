@@ -15,6 +15,7 @@
         <module name="09_RestController" />
         <module name="02_Spring_Bean_Life_Cycle" />
         <module name="06_Runtime_Value_Injection" />
+        <module name="12_Spring_Data_JPA" />
         <module name="03_Spring_DI" />
       </profile>
     </annotationProcessing>
